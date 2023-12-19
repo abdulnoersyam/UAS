@@ -1,0 +1,11 @@
+No,ID,Brand,RAM,CPU,GPU,Baterai,Harga,Layar,saw,wp
+1,001,Lenovo (IdeaPad Slim D330 Flex),8GB,Intel Celeron N4020 Dual Core up to 2.8 GHz,Intel UHD Graphics 600,39Wh,Rp.3.699.000,10.1 inci,34.66,4.6739
+2,002,ASUS (VivoBook 15 A516MAO N4020),4GB,Intel Celeron N4020 Dual Core up to 2.8 GHz,Intel UHD Graphics 600,37Wh,Rp.3.999.000,15.6 inci,40.43,4.9314
+3,003,Xiaomi (RedmiBook 15),8GB,Intel Core i3-1115G4 Dual Core up to 1.1 GHz,Intel UHD Graphics Gen-11,46Wh,Rp1.999.000,15.6 inci,49.52,5.259
+4,004,Acer (Aspire 5 Slim A514),8GB,Intel Core i3-1115G4 Dual Core up to 4.1 GHz,NVIDIA GeForce MX350 2GB,38Wh,Rp6.699.000,14 inci,31.36,4.5622
+5,005,MSI (Modern 14 C12M 473ID),8GB,"Intel Core i3-1215U, 6 core (2P core-4E core), 8 thread, up to 4,4 GHz",Intel UHD,39 Wh,Rp7.599.000,15.6 inci,91.32,6.0629
+6,006,Infinix (INBook X1 Pro),16GB,Intel Iris Plus,Nvidia GeForce RTX 3050,55 Wh,Rp.7.259.000,15.6 inci,29.43,4.5651
+7,007,Dell (Vostro 3510),4GB,Intel® Core™ i3-1115G4 Processor,Intel UHD,41 Wh,Rp.7.500.000,15.6 inci,53.92,5.3658 
+8,008,Huawei (MateBook D 15 i3-1115G4),8GB,11th Gen Intel Core™ i3-1135G7,Intel UHD Graphics,42 Wh,Rp7.599.000,15.6 inci,44.83,5.0542
+9,009,Apple (MacBook Air M1),8GB,Chip Apple MI,Apple ML,"49,9Wh",Rp28.660.000,13.3 inci,77.93,5.7844
+10,010,ROG Strix SCAR 17Special Edition (G733C),16GB,12th Gen Intel Core i9-12950HX Processor 2.3GHz,NVIDIA® GeForce RTXTM 3070Ti,90WHrs,Rp66.999.000,17.03 inci,113.32,6.3687 
